@@ -1,4 +1,4 @@
-Having_IP_Address,URL_Length,Shortining_Service,Having_At_Symbol,Domain_registeration_length,Prefix_Suffix,Having_Sub_Domain,URL_of_Anchor,HTTPS_token,SFH,Abnormal_URL,Redirect,PopUpWidnow,DNSRecord,Web_traffic,Links_pointing_to_page,Result
+Having_IP_Address,URL_Length,Shortening_Service,Having_At_Symbol,Domain_Registration_Length,Prefix_Suffix,Having_Sub_Domain,URL_of_Anchor,HTTPS_Token,SFH,Abnormal_URL,Redirect,PopUpWidnow,DNSRecord,Web_Traffic,Links_Pointing_to_Page,Result
 0,0,0,1,0,1,1,0,1,0,0,1,1,0,1,1,1
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
 0,0,1,1,1,0,0,0,1,1,1,1,1,1,1,1,0
